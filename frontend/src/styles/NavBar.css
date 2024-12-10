@@ -1,0 +1,61 @@
+.navbar {
+  width: 100%;
+  padding: 0.5rem 0;
+  border-bottom: 2px solid black;
+  box-sizing: border-box;
+}
+
+.navbar-container {
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.logo {
+  height: 40px;
+  justify-self: start; /* Aligns logo to the start of the first grid cell */
+}
+
+.navbar-links-container {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Right links container */
+.navbar-links1-container {
+  justify-self: end; /* Aligns login/register links to the end of the third grid cell */
+}
+
+.navbar-links1 {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar-links li, .navbar-links1 li {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.navbar-links a, .navbar-links1 a {
+  text-decoration: none;
+  color: black;
+  padding: 5px 10px;
+  transition: color 0.3s;
+}
+
+.navbar-links a:hover, .navbar-links1 a:hover {
+  color: #007bff;
+}

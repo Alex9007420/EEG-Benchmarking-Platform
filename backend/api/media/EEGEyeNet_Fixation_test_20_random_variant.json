@@ -1,0 +1,224 @@
+{
+    "EEGEyeNet_Fixation_test": [
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000004-segment-000000004-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 644.4800188521451,
+                "label_y_position": 463.09245299120505
+            },
+            "start": 141,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000006-segment-000000006-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 679.6370327876156,
+                "label_y_position": 388.7274628883338
+            },
+            "start": 641,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000010-segment-000000008-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 530.7042949992442,
+                "label_y_position": 380.87135202320707
+            },
+            "start": 1141,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000004-segment-000000010-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 208.00744585230512,
+                "label_y_position": 152.48033015320067
+            },
+            "start": 1641,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000006-segment-000000012-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 135.2344815270963,
+                "label_y_position": 379.48966871470435
+            },
+            "start": 2141,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000010-segment-000000014-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 660.070123392747,
+                "label_y_position": 207.7376936532401
+            },
+            "start": 2641,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000004-segment-000000016-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 136.4732780722771,
+                "label_y_position": 242.84193120359927
+            },
+            "start": 3141,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000006-segment-000000018-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 516.0903317582878,
+                "label_y_position": 151.08035715425532
+            },
+            "start": 3641,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000010-segment-000000020-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 487.123973456803,
+                "label_y_position": 290.21570912830543
+            },
+            "start": 4141,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000004-segment-000000022-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 301.5542919086872,
+                "label_y_position": 177.9290962681721
+            },
+            "start": 4641,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000006-segment-000000024-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 114.66293010565839,
+                "label_y_position": 216.37620501294535
+            },
+            "start": 5141,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000010-segment-000000026-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 112.3345008321819,
+                "label_y_position": 205.13707710463294
+            },
+            "start": 5641,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000004-segment-000000028-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 630.9698230567437,
+                "label_y_position": 438.1035388018972
+            },
+            "start": 6141,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000006-segment-000000030-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 231.34206711246676,
+                "label_y_position": 176.424396401032
+            },
+            "start": 6641,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000010-segment-000000032-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 111.91249910197342,
+                "label_y_position": 231.13868920705704
+            },
+            "start": 7141,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000004-segment-000000034-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 513.9765901278982,
+                "label_y_position": 460.0649280908159
+            },
+            "start": 7641,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000006-segment-000000036-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 114.48236147006233,
+                "label_y_position": 353.4820777041869
+            },
+            "start": 8141,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000010-segment-000000038-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 347.3898169503184,
+                "label_y_position": 260.03051891078275
+            },
+            "start": 8641,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000004-segment-000000040-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 275.5375980741401,
+                "label_y_position": 379.7157518818479
+            },
+            "start": 9141,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000006-segment-000000042-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 169.17408640854705,
+                "label_y_position": 249.70776248076916
+            },
+            "start": 9641,
+            "length": 500
+        }
+    ]
+}

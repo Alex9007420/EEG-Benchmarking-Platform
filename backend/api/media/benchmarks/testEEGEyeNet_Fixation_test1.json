@@ -1,0 +1,37 @@
+{
+    "EEGEyeNet_Fixation_test": [
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000004-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 397.7,
+                "label_y_position": 291.8
+            },
+            "start": 141,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000006-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 674.8,
+                "label_y_position": 493.0
+            },
+            "start": 1080,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-Dots-EP37-EP37_Dots1_EEG-segment-000000010-fixation.pickle"
+            ],
+            "output": {
+                "label_x_position": 399.8,
+                "label_y_position": 107.4
+            },
+            "start": 2052,
+            "length": 500
+        }
+    ]
+}

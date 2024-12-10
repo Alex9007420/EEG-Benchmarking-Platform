@@ -1,0 +1,21 @@
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+*.env
+
+# Django
+db.sqlite3
+*.log
+
+# Node.js / React
+node_modules/
+npm-debug.log
+build/
+.DS_Store
+
+# Environment variables
+.env

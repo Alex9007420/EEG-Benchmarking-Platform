@@ -1,0 +1,29 @@
+{
+    "EEGEyeNet_LR_test": [
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-ANTI-BS9-BS9_AS1_EEG-segment-000000005-fixation.pickle",
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-ANTI-BS9-BS9_AS1_EEG-segment-000000006-saccade.pickle",
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-ANTI-BS9-BS9_AS1_EEG-segment-000000007-fixation.pickle",
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-ANTI-BS9-BS9_AS1_EEG-segment-000000008-saccade.pickle"
+            ],
+            "output": {
+                "label_LR": "Left"
+            },
+            "start": 7167,
+            "length": 500
+        },
+        {
+            "input": [
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-ANTI-BS9-BS9_AS1_EEG-segment-000000011-fixation.pickle",
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-ANTI-BS9-BS9_AS1_EEG-segment-000000012-saccade.pickle",
+                "kard/deepeye_storage/deepeyeALL_prepared/Hardware1-ANTI-BS9-BS9_AS1_EEG-segment-000000013-fixation.pickle"
+            ],
+            "output": {
+                "label_LR": "Left"
+            },
+            "start": 9156,
+            "length": 500
+        }
+    ]
+}

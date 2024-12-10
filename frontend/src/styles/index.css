@@ -1,0 +1,27 @@
+/* Reset margins and ensure the page stretches to full height */
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Full viewport height */
+}
+
+/* Main content grows to push footer down */
+.main-content {
+    flex: 1;
+    padding: 1rem;
+}
+
+/* Footer styling */
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    font-size: 1rem;
+    width: 100%;
+}
+  

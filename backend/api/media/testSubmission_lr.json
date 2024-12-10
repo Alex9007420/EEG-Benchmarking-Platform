@@ -1,0 +1,28 @@
+{
+    "EEGEyeNet_LR_test": [
+        {
+            "input": [
+                "path/to/your/data-segment-0001-fixation.pickle",
+                "path/to/your/data-segment-0002-saccade.pickle",
+                "path/to/your/data-segment-0003-fixation.pickle"
+            ],
+            "output": {
+                "label_LR": "Left"
+            },
+            "start": 1000,
+            "length": 500
+        },
+        {
+            "input": [
+                "path/to/your/data-segment-0002-fixation.pickle",
+                "path/to/your/data-segment-0003-saccade.pickle",
+                "path/to/your/data-segment-0004-fixation.pickle"
+            ],
+            "output": {
+                "label_LR": "Right"
+            },
+            "start": 2000,
+            "length": 500
+        }
+    ]
+}

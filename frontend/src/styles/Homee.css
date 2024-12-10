@@ -1,0 +1,22 @@
+.Home-Body{
+
+    text-align: center;
+    justify-content: center;
+    width: 65%;
+    margin: auto;
+
+}
+
+.Home-Body h4{
+    font-style: italic;
+}
+
+.Home-Content{
+    padding-left: 1em;
+    padding-right: 1em;
+    
+}
+
+.Home-Content p{
+    text-align: justify;
+}
